@@ -129,6 +129,7 @@ public class MainActivity extends AppCompatActivity {
         parameters.putString("fields", "id,name,link,email,picture");
         request.setParameters(parameters);
         request.executeAsync();
+
     }
 
     @Override
