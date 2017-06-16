@@ -28,6 +28,7 @@
             android:authorities="com.facebook.app.FacebookContentProvider797088600453304"
             android:exported="true" />
         <meta-data
+
             android:name="com.facebook.sdk.ApplicationId"
             android:value="@string/facebook_app_id" />
     </application>
